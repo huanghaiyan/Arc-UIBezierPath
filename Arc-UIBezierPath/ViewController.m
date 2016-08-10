@@ -33,6 +33,7 @@
     [bezier addQuadCurveToPoint:CGPointMake(0,finalSize.height - layerHeight) controlPoint:CGPointMake(finalSize.width / 2, (finalSize.height - layerHeight)-60)];
     layer.path = bezier.CGPath;
     layer.fillColor = [UIColor whiteColor].CGColor;
+    layer.strokeColor = [UIColor redColor].CGColor;
     [bgView.layer addSublayer:layer];
 }
 
