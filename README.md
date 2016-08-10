@@ -1,6 +1,6 @@
 # Arc-UIBezierPath
 
-![1455416445749925.png](http://upload-images.jianshu.io/upload_images/726092-b6bf3d7e6f0b9d51.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![1455416445749925.png](http://upload-images.jianshu.io/upload_images/726092-2173d2fdfbb70637.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 主要实现红框里的效果
 实现思路：
